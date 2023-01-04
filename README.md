@@ -1,1 +1,2 @@
 # Fried-man-Education
+This GitHub organization serves as a repository for the majority of the coursework completed during my bachelor's degree in computer science. In addition to providing a means of organization and version control for my academic work, the repository also includes programming projects and online courses undertaken on a recreational basis. Through this collection, one may gain an understanding of the topics explored and studied during my academic and personal endeavors in computer science.
